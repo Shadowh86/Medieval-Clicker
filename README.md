@@ -1,2 +1,2 @@
 # Medieval Clicker
- Game That I have builed myself
+ Game That I have built myself during unity development course
